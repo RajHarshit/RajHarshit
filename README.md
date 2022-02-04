@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RajHarshit
+- 👋 Hi, I’m Harshit Raj
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Js
 
