@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harshit Raj
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Js
+- 🌱 I’m currently learning FrontEnd Web Development
 
 <!---
 RajHarshit/RajHarshit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
